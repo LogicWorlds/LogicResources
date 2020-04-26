@@ -1,0 +1,16 @@
+[
+{
+  "modid": "logicresources",
+  "name": "Logic Resources",
+  "description": "Resources for our project.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Yaroslavik"],
+  "credits": "Resources for our project",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
